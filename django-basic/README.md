@@ -9,4 +9,19 @@ Download and install Python from [Python Official Website](https://www.python.or
 Open a command prompt and run:
 
 ```bash
-pip install django && django-admin startproject myproject && cd myproject && python manage.py runserver
+pip install django
+
+```bash
+django-admin startproject myproject
+
+
+```bash
+python manage.py runserver
+
+
+
+
+
+
+
+
